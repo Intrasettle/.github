@@ -1,6 +1,6 @@
 # Intrasettle
 
-[![Intrasettle Landing Page](https://i.pinimg.com/originals/cd/99/35/cd9935907e3e4954a40cefffb8893127.png)](https://intrasettle.com/)
+[![Intrasettle Landing Page](https://intrasettle.com/static/img/intrasettle_white.png)](https://intrasettle.com/)
 
 
 ## Bridging Currencies, Unifying Payments
